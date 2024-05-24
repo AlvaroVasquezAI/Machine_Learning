@@ -6,9 +6,6 @@ Welcome to the **Machine Learning Mastery** repository. This repository is desig
 
 1. [Introduction to Machine Learning](#introduction-to-machine-learning)
 2. [Types of Machine Learning](#types-of-Machine-Learning)
-...
-n-1.
-n
 
 ## 🛠 Getting Started
 
@@ -50,4 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or feedback, please reach out to [Your Name](mailto:agarciav2102@alumno.ipn.mx).
+For questions or feedback, please reach out to [Álvaro García Vásquez](mailto:agarciav2102@alumno.ipn.mx).
